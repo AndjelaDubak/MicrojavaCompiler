@@ -1,0 +1,265 @@
+INFO  20:31:34,600 - #2 program
+INFO  20:31:34,600 - #50 test301
+INFO  20:31:34,601 - #5 const
+INFO  20:31:34,601 - #50 int
+INFO  20:31:34,601 - #50 nula
+INFO  20:31:34,601 - #8 =
+INFO  20:31:34,602 - #49 0
+INFO  20:31:34,602 - #6 ;
+INFO  20:31:34,602 - #5 const
+INFO  20:31:34,602 - #50 int
+INFO  20:31:34,602 - #50 jedan
+INFO  20:31:34,602 - #8 =
+INFO  20:31:34,602 - #49 1
+INFO  20:31:34,602 - #6 ;
+INFO  20:31:34,602 - #5 const
+INFO  20:31:34,602 - #50 int
+INFO  20:31:34,602 - #50 tri
+INFO  20:31:34,602 - #8 =
+INFO  20:31:34,603 - #49 3
+INFO  20:31:34,603 - #6 ;
+INFO  20:31:34,603 - #5 const
+INFO  20:31:34,603 - #50 int
+INFO  20:31:34,603 - #50 pet
+INFO  20:31:34,603 - #8 =
+INFO  20:31:34,603 - #49 5
+INFO  20:31:34,603 - #6 ;
+INFO  20:31:34,603 - #50 int
+INFO  20:31:34,603 - #50 niz
+INFO  20:31:34,603 - #9 [
+INFO  20:31:34,604 - #10 ]
+INFO  20:31:34,604 - #6 ;
+INFO  20:31:34,604 - #50 char
+INFO  20:31:34,604 - #50 nizch
+INFO  20:31:34,604 - #9 [
+INFO  20:31:34,604 - #10 ]
+INFO  20:31:34,604 - #6 ;
+INFO  20:31:34,604 - #50 int
+INFO  20:31:34,604 - #50 p
+INFO  20:31:34,604 - #6 ;
+INFO  20:31:34,604 - #3 {
+INFO  20:31:34,604 - #13 void
+INFO  20:31:34,605 - #50 main
+INFO  20:31:34,605 - #11 (
+INFO  20:31:34,605 - #12 )
+INFO  20:31:34,605 - #50 int
+INFO  20:31:34,606 - #50 bodovi
+INFO  20:31:34,606 - #6 ;
+INFO  20:31:34,606 - #50 bool
+INFO  20:31:34,606 - #50 bt
+INFO  20:31:34,606 - #6 ;
+INFO  20:31:34,606 - #3 {
+INFO  20:31:34,606 - #50 bodovi
+INFO  20:31:34,607 - #8 =
+INFO  20:31:34,607 - #19 -
+INFO  20:31:34,607 - #49 1
+INFO  20:31:34,607 - #6 ;
+INFO  20:31:34,607 - #50 bodovi
+INFO  20:31:34,608 - #15 ++
+INFO  20:31:34,608 - #6 ;
+INFO  20:31:34,608 - #50 bodovi
+INFO  20:31:34,608 - #8 =
+INFO  20:31:34,608 - #11 (
+INFO  20:31:34,608 - #50 bodovi
+INFO  20:31:34,608 - #21 +
+INFO  20:31:34,608 - #50 jedan
+INFO  20:31:34,609 - #12 )
+INFO  20:31:34,609 - #37 ??
+INFO  20:31:34,609 - #50 tri
+INFO  20:31:34,609 - #6 ;
+INFO  20:31:34,609 - #50 bodovi
+INFO  20:31:34,609 - #8 =
+INFO  20:31:34,609 - #50 bodovi
+INFO  20:31:34,609 - #22 *
+INFO  20:31:34,609 - #50 pet
+INFO  20:31:34,610 - #6 ;
+INFO  20:31:34,610 - #50 bodovi
+INFO  20:31:34,610 - #16 --
+INFO  20:31:34,610 - #6 ;
+INFO  20:31:34,610 - #18 print
+INFO  20:31:34,610 - #11 (
+INFO  20:31:34,610 - #50 bodovi
+INFO  20:31:34,610 - #12 )
+INFO  20:31:34,610 - #6 ;
+INFO  20:31:34,610 - #50 bt
+INFO  20:31:34,611 - #8 =
+INFO  20:31:34,611 - #51 true
+INFO  20:31:34,611 - #6 ;
+INFO  20:31:34,611 - #50 niz
+INFO  20:31:34,611 - #8 =
+INFO  20:31:34,611 - #20 new
+INFO  20:31:34,611 - #50 int
+INFO  20:31:34,611 - #9 [
+INFO  20:31:34,611 - #49 3
+INFO  20:31:34,611 - #10 ]
+INFO  20:31:34,611 - #6 ;
+INFO  20:31:34,611 - #50 niz
+INFO  20:31:34,611 - #9 [
+INFO  20:31:34,611 - #50 nula
+INFO  20:31:34,612 - #10 ]
+INFO  20:31:34,612 - #8 =
+INFO  20:31:34,612 - #50 jedan
+INFO  20:31:34,612 - #6 ;
+INFO  20:31:34,612 - #50 niz
+INFO  20:31:34,612 - #9 [
+INFO  20:31:34,612 - #49 1
+INFO  20:31:34,612 - #10 ]
+INFO  20:31:34,612 - #8 =
+INFO  20:31:34,612 - #49 2
+INFO  20:31:34,612 - #6 ;
+INFO  20:31:34,612 - #50 bodovi
+INFO  20:31:34,612 - #8 =
+INFO  20:31:34,612 - #50 niz
+INFO  20:31:34,612 - #9 [
+INFO  20:31:34,612 - #49 2
+INFO  20:31:34,612 - #10 ]
+INFO  20:31:34,612 - #23 /
+INFO  20:31:34,612 - #50 niz
+INFO  20:31:34,613 - #9 [
+INFO  20:31:34,613 - #49 0
+INFO  20:31:34,613 - #10 ]
+INFO  20:31:34,613 - #6 ;
+INFO  20:31:34,613 - #18 print
+INFO  20:31:34,613 - #11 (
+INFO  20:31:34,613 - #50 bodovi
+INFO  20:31:34,613 - #12 )
+INFO  20:31:34,613 - #6 ;
+INFO  20:31:34,613 - #18 print
+INFO  20:31:34,613 - #11 (
+INFO  20:31:34,613 - #50 niz
+INFO  20:31:34,613 - #9 [
+INFO  20:31:34,613 - #49 2
+INFO  20:31:34,613 - #10 ]
+INFO  20:31:34,613 - #12 )
+INFO  20:31:34,613 - #6 ;
+INFO  20:31:34,613 - #50 nizch
+INFO  20:31:34,614 - #8 =
+INFO  20:31:34,614 - #20 new
+INFO  20:31:34,614 - #50 char
+INFO  20:31:34,614 - #9 [
+INFO  20:31:34,614 - #49 3
+INFO  20:31:34,614 - #10 ]
+INFO  20:31:34,614 - #6 ;
+INFO  20:31:34,614 - #50 nizch
+INFO  20:31:34,614 - #9 [
+INFO  20:31:34,614 - #49 0
+INFO  20:31:34,614 - #10 ]
+INFO  20:31:34,614 - #8 =
+INFO  20:31:34,614 - #48 a
+INFO  20:31:34,614 - #6 ;
+INFO  20:31:34,614 - #50 nizch
+INFO  20:31:34,614 - #9 [
+INFO  20:31:34,614 - #50 jedan
+INFO  20:31:34,614 - #10 ]
+INFO  20:31:34,614 - #8 =
+INFO  20:31:34,614 - #48 b
+INFO  20:31:34,614 - #6 ;
+INFO  20:31:34,614 - #50 nizch
+INFO  20:31:34,614 - #9 [
+INFO  20:31:34,615 - #50 pet
+INFO  20:31:34,615 - #19 -
+INFO  20:31:34,615 - #49 3
+INFO  20:31:34,615 - #10 ]
+INFO  20:31:34,615 - #8 =
+INFO  20:31:34,615 - #48 c
+INFO  20:31:34,615 - #6 ;
+INFO  20:31:34,615 - #18 print
+INFO  20:31:34,615 - #11 (
+INFO  20:31:34,615 - #50 nizch
+INFO  20:31:34,615 - #9 [
+INFO  20:31:34,615 - #49 1
+INFO  20:31:34,615 - #10 ]
+INFO  20:31:34,615 - #12 )
+INFO  20:31:34,615 - #6 ;
+INFO  20:31:34,615 - #18 print
+INFO  20:31:34,616 - #11 (
+INFO  20:31:34,616 - #50 nizch
+INFO  20:31:34,616 - #9 [
+INFO  20:31:34,616 - #50 jedan
+INFO  20:31:34,616 - #22 *
+INFO  20:31:34,616 - #49 2
+INFO  20:31:34,616 - #10 ]
+INFO  20:31:34,616 - #12 )
+INFO  20:31:34,616 - #6 ;
+INFO  20:31:34,616 - #50 bodovi
+INFO  20:31:34,616 - #8 =
+INFO  20:31:34,616 - #50 bodovi
+INFO  20:31:34,616 - #21 +
+INFO  20:31:34,616 - #11 (
+INFO  20:31:34,616 - #50 pet
+INFO  20:31:34,616 - #22 *
+INFO  20:31:34,616 - #50 jedan
+INFO  20:31:34,616 - #19 -
+INFO  20:31:34,616 - #49 1
+INFO  20:31:34,616 - #12 )
+INFO  20:31:34,616 - #22 *
+INFO  20:31:34,616 - #50 bodovi
+INFO  20:31:34,616 - #19 -
+INFO  20:31:34,616 - #11 (
+INFO  20:31:34,616 - #49 3
+INFO  20:31:34,616 - #24 %
+INFO  20:31:34,616 - #49 2
+INFO  20:31:34,617 - #21 +
+INFO  20:31:34,617 - #49 3
+INFO  20:31:34,617 - #22 *
+INFO  20:31:34,617 - #49 2
+INFO  20:31:34,617 - #19 -
+INFO  20:31:34,617 - #49 3
+INFO  20:31:34,617 - #12 )
+INFO  20:31:34,617 - #6 ;
+INFO  20:31:34,617 - #18 print
+INFO  20:31:34,617 - #11 (
+INFO  20:31:34,617 - #50 bodovi
+INFO  20:31:34,617 - #12 )
+INFO  20:31:34,617 - #6 ;
+INFO  20:31:34,617 - #18 print
+INFO  20:31:34,617 - #11 (
+INFO  20:31:34,617 - #50 bt
+INFO  20:31:34,617 - #12 )
+INFO  20:31:34,617 - #6 ;
+INFO  20:31:34,617 - #18 print
+INFO  20:31:34,617 - #11 (
+INFO  20:31:34,617 - #50 bodovi
+INFO  20:31:34,617 - #12 )
+INFO  20:31:34,618 - #6 ;
+INFO  20:31:34,618 - #4 }
+INFO  20:31:34,618 - #4 }
+INFO  20:31:34,625 - Pretraga na 19(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,626 - Pretraga na 21(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,626 - Pretraga na 22(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,626 - Pretraga na 22(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,626 - Pretraga na 22(jedan), nadjeno Con jedan: int, 1, 0 
+INFO  20:31:34,626 - Pretraga na 22(tri), nadjeno Con tri: int, 3, 0 
+INFO  20:31:34,626 - Pretraga na 23(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,626 - Pretraga na 23(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,626 - Pretraga na 23(pet), nadjeno Con pet: int, 5, 0 
+INFO  20:31:34,626 - Pretraga na 24(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,626 - Pretraga na 25(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,626 - Pretraga na 26(bt), nadjeno Var bt: , 1, 1 
+INFO  20:31:34,626 - Pretraga na 28(niz), nadjeno Var niz: Arr of int, 0, 0 
+INFO  20:31:34,626 - Pretraga na 29(niz), nadjeno Var niz: Arr of int, 0, 0 
+INFO  20:31:34,626 - Pretraga na 29(nula), nadjeno Con nula: int, 0, 0 
+INFO  20:31:34,626 - Pretraga na 29(jedan), nadjeno Con jedan: int, 1, 0 
+INFO  20:31:34,626 - Pretraga na 30(niz), nadjeno Var niz: Arr of int, 0, 0 
+INFO  20:31:34,626 - Pretraga na 32(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,626 - Pretraga na 32(niz), nadjeno Var niz: Arr of int, 0, 0 
+INFO  20:31:34,626 - Pretraga na 32(niz), nadjeno Var niz: Arr of int, 0, 0 
+INFO  20:31:34,626 - Pretraga na 33(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,626 - Pretraga na 34(niz), nadjeno Var niz: Arr of int, 0, 0 
+INFO  20:31:34,626 - Pretraga na 37(nizch), nadjeno Var nizch: Arr of char, 1, 0 
+INFO  20:31:34,626 - Pretraga na 38(nizch), nadjeno Var nizch: Arr of char, 1, 0 
+INFO  20:31:34,626 - Pretraga na 39(nizch), nadjeno Var nizch: Arr of char, 1, 0 
+INFO  20:31:34,627 - Pretraga na 39(jedan), nadjeno Con jedan: int, 1, 0 
+INFO  20:31:34,627 - Pretraga na 40(nizch), nadjeno Var nizch: Arr of char, 1, 0 
+INFO  20:31:34,627 - Pretraga na 40(pet), nadjeno Con pet: int, 5, 0 
+INFO  20:31:34,627 - Pretraga na 41(nizch), nadjeno Var nizch: Arr of char, 1, 0 
+INFO  20:31:34,627 - Pretraga na 42(nizch), nadjeno Var nizch: Arr of char, 1, 0 
+INFO  20:31:34,627 - Pretraga na 42(jedan), nadjeno Con jedan: int, 1, 0 
+INFO  20:31:34,627 - Pretraga na 45(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,627 - Pretraga na 45(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,627 - Pretraga na 45(pet), nadjeno Con pet: int, 5, 0 
+INFO  20:31:34,627 - Pretraga na 45(jedan), nadjeno Con jedan: int, 1, 0 
+INFO  20:31:34,627 - Pretraga na 45(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,627 - Pretraga na 46(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  20:31:34,627 - Pretraga na 49(bt), nadjeno Var bt: , 1, 1 
+INFO  20:31:34,627 - Pretraga na 50(bodovi), nadjeno Var bodovi: int, 0, 1 

@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\Andjela\Documents\Reseno\PP1\projekat\AVGUST\FINAL\workspace\.metadata\.plugins\org.eclipse.jdt.core
+963485355.index
+3029161024.index
+485005741.index
+1865797976.index
+2792787403.index
+570380218.index
+3024886296.index

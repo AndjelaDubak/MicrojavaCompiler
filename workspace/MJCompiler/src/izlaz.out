@@ -1,0 +1,7 @@
+Reading "..\spec\mjlexer.flex"
+Constructing NFA : 227 states in NFA
+Converting NFA to DFA : 
+........................................................................................................................................
+140 states before minimization, 129 states in minimized DFA
+Old file "rs\ac\bg\etf\pp1\Yylex.java" saved as "rs\ac\bg\etf\pp1\Yylex.java~"
+Writing code to "rs\ac\bg\etf\pp1\Yylex.java"

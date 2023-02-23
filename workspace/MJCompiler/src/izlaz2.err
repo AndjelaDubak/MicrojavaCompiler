@@ -1,0 +1,43 @@
+Opening files...
+Parsing specification from standard input...
+Checking specification...
+Warning: Terminal "NOTEQUAL" was declared but never used
+Warning: Terminal "CONTINUE" was declared but never used
+Warning: Terminal "GREATER" was declared but never used
+Warning: Terminal "LESS" was declared but never used
+Warning: Terminal "AND" was declared but never used
+Warning: Terminal "RECORD" was declared but never used
+Warning: Terminal "OR" was declared but never used
+Warning: Terminal "CLASS" was declared but never used
+Warning: Terminal "LESSEQ" was declared but never used
+Warning: Terminal "IF" was declared but never used
+Warning: Terminal "THIS" was declared but never used
+Warning: Terminal "DOT" was declared but never used
+Warning: Terminal "RETURN" was declared but never used
+Warning: Terminal "EQUAL" was declared but never used
+Warning: Terminal "SUPER" was declared but never used
+Warning: Terminal "BREAK" was declared but never used
+Warning: Terminal "ELSE" was declared but never used
+Warning: Terminal "ENUM" was declared but never used
+Warning: Terminal "WHILE" was declared but never used
+Warning: Terminal "EXTENDS" was declared but never used
+Warning: Terminal "GREATEREQ" was declared but never used
+Warning: Terminal "DO" was declared but never used
+Building parse tables...
+  Computing non-terminal nullability...
+  Computing first sets...
+  Building state machine...
+  Filling in tables...
+  Checking for non-reduced productions...
+Writing parser...
+Closing files...
+------- CUP v0.10k Parser Generation Summary -------
+  0 errors and 22 warnings
+  52 terminals, 38 non-terminals, and 76 productions declared, 
+  producing 137 unique parse states.
+  22 terminals declared but not used.
+  0 non-terminals declared but not used.
+  0 productions never reduced.
+  0 conflicts detected (0 expected).
+  Code written to "MJParser.java", and "sym.java".
+---------------------------------------------------- (v0.10k)
